@@ -7,3 +7,8 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH
 2 personal each + 1 main group shared one
 Idea?
 Title:
+
+Interests:? 
+ben: Miniatures, Video games, the pain of existance
+mia:
+ang:
