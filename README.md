@@ -20,7 +20,7 @@ layout/design
 CSS
 Navigation and graphics
 
-
-Ben: click bait? and just alot of rick rolls +links a ton
+genres? sub-cultures, pick areas
+Ben: click bait? and just alot of rick rolls +links a ton. rick roll subculture.
 mia: 
 ang: 
