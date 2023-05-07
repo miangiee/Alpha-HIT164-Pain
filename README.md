@@ -20,6 +20,7 @@ layout/design
 CSS
 Navigation and graphics
 
-Ben: click bait and just alot of rick rolls +links a ton
-mia:
-ang:
+
+Ben: click bait? and just alot of rick rolls +links a ton
+mia: 
+ang: 
