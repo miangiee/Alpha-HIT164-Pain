@@ -9,6 +9,7 @@ Idea?
 Title:
 
 Interests:? memes
+
 ben: Miniatures, Video games, the pain of existance
 mia:
 ang:
@@ -18,3 +19,5 @@ coding validation
 layout/design
 CSS
 Navigation and graphics
+
+Ben: click bait and just alot of rick rolls +links a ton
