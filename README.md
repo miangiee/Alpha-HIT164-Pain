@@ -11,7 +11,7 @@ Title:
 Interests:? memes
 ben: Miniatures, Video games, the pain of existance
 mia:
-ang:
+ang: 🍯 🍭
 
 Group work
 coding validation
