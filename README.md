@@ -8,7 +8,13 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH
 Idea?
 Title:
 
-Interests:? 
+Interests:? memes
 ben: Miniatures, Video games, the pain of existance
 mia:
 ang:
+
+Group work
+coding validation
+layout/design
+CSS
+Navigation and graphics
