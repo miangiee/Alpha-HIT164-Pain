@@ -24,3 +24,4 @@ genres? sub-cultures, pick areas
 Ben: click bait? and just alot of rick rolls +links a ton. rick roll subculture.
 mia: 
 ang: 
+2 pages each
