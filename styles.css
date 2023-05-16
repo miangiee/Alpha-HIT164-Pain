@@ -1,0 +1,23 @@
+ 
+h1 {
+  color: crimson;
+  text-align: center;
+}
+
+body {
+  background-color: rgb(222, 213, 230);
+}
+
+.divcolor{
+  background-color: rgb(219, 213, 189);
+}
+
+.centerimg {
+ 
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    display: block;
+
+}
+ 
