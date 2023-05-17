@@ -11,12 +11,17 @@
 
 
 <body>
+    Note: have this be the button to stop the music playing in the background.
+    <button type="button" onclick="">?Start?</button>
+    In onclick put the function that stops/starts audio
 
-    <h1>Page 1 of 2</h1>
+
+    <h1>Page 1 of 2<br>
+    The Glory of Astley</h1>
     <hr>
 
     <div class="divcolor">
-       <img class="centerimg" src="Rick.jpg" width="500" height="400"/ > 
+       <img class="centerimg" src="Rick.jpg" width="800" height="574"> 
     </div>
 
     <audio controls>
@@ -28,7 +33,13 @@
 
     <p>
         Rick Astley. A man of many talents <br>
-    	Australian Border is <del>closed</del> <ins>open</ins>! now<sup>1</sup>. To know more about different programs at <abbr title="Charles Darwin University">CDU</abbr>, select from the <b>options</b> below:
+    	Many things are a set point in the culture of the internet. From the fact the puppy and cat videos will swell with views, that were will <ins>always</ins> be copy cats, and among other things, that links are not to be trusted.<br>
+        This now inherent distrust of links you can thank Rick Astley for<br>
+        <br>
+        Below here simply to remind me of codes <br> 
+        <del>closed</del> <ins>open</ins>! now<sup>1</sup> <abbr title="Charles Darwin University">CDU</abbr><b>options</b>
+        <h4>CDU at <cite>Times Higher Education </cite>page:</h4>
+        <br>
 
         <ul>
            <li><a href="https://youtu.be/hvL1339luv0" target="_blank">The Meow</a></li>
@@ -38,7 +49,7 @@
     </p>
     <hr>	
 
-    <h4>CDU at <cite>Times Higher Education </cite>page:</h4>
+    
     <h4> Talk about Rick Astely, make stuff up, it matters not: </h4>
 
     <blockquote>
