@@ -1,1 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bedroom DJs Blog</title>
+  <link rel="stylesheet" href="styles.css"> <!-- You can link your CSS file here -->
+</head>
+<body>
+  <header>
+    <h1>Welcome to the Bedroom DJs Blog</h1>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main>
+    <article>
+      <h2>Introduction to Bedroom DJs</h2>
+      <p>
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod urna nec quam sagittis tincidunt.
+        Mauris elementum consequat lectus sed malesuada. Suspendisse sed nisl sem. Sed efficitur nunc eget ex semper, eu sodales velit lacinia. In sagittis metus at ligula consectetur posuere.
+      </p>
+      <p>
+        Phasellus vel gravida lorem. Integer volutpat felis quis enim semper, at tempor erat consequat. Nullam tincidunt dignissim ante ac vulputate. Sed euismod semper nibh at pellentesque.
+      </p>
+      <img src="bedroom_dj_image.jpg" alt="Bedroom DJ" width="400">
+      <p>
+        In this blog, we will explore various aspects of being a bedroom DJ, including equipment recommendations, mixing techniques, and tips for building a successful career in the music industry from the comfort of your own home.
+      </p>
+    </article>
+    <aside>
+      <h3>Recent Posts</h3>
+      <ul>
+        <li><a href="post1.html">10 Essential Tools for Every Bedroom DJ</a></li>
+        <li><a href="post2.html">Mastering Mixing Techniques: A Step-by-Step Guide</a></li>
+        <li><a href="post3.html">Building Your Brand as a Bedroom DJ</a></li>
+      </ul>
+    </aside>
+  </main>
+  <footer>
+    <p>&copy; 2023 Bedroom DJs Blog. All rights reserved.</p>
+  </footer>
+</body>
+</html>
 
