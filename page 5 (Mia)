@@ -36,7 +36,7 @@ div.desc {
     margin: 8px 0;
   }
 }
-@media only screen and (max-width: 300px) {
+@media only screen and (max-width: 200px) {
   .webcomic {
     width: 50%;
   }
@@ -60,7 +60,7 @@ div.desc {
 <body>
 <body>
     <div class="divcolor"> 
-        <pre><a href="Page1.html" target="_blank">Page 1</a>         <a href="Page2.html" target="_blank">page 2</a>         <a href="Page3.html" target="_blank">page 3</a>          <a href="page4" target="_blank">page 4</a>          <a href="page5" target="_blank">page 5</a>            <a href="page6" target="_blank">page 6</a></pre>
+        <pre><a href="Page0.html" target="_blank">Home</a>         <a href="Page1.html" target="_blank">Cult of Rick.</a>         <a href="Page2.html" target="_blank">page 2</a>         <a href="Page3.html" target="_blank">page 3</a>          <a href="page4.html" target="_blank">page 4</a>          <a href="page5.html" target="_blank">This if Fine.</a>            <a href="page6.html" target="_blank">One Does not Simply.</a></pre>
     </div>
 <h1> This is Fine, a webcomic to viral meme</h1>
 <hr>
@@ -125,7 +125,7 @@ More info etc etc<br>
 Video here below<br>
 <p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nxMMElT61A8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-<br>
+<img class="centerimg" src="" width="" height=""><br>
 Reference video and some info about it.<br>
 <p></p>
 <hr>
