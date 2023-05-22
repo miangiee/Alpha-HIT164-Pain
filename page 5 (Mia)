@@ -15,8 +15,8 @@ div.images:hover {
   border: 2px solid #777;
 }
 div.images img {
-  width: 50%;
-  height: 50%;
+  width: 55%;
+  height: 55%;
 }
 div.desc {
   padding: 15px;
@@ -28,17 +28,17 @@ div.desc {
 .webcomic {
   padding: 0 8px;
   float: left;
-  width: 15.99999%;
+  width: 16%;
 }
 @media only screen and (max-width: 400px) {
   .webcomic {
-    width: 15.99999%;
+    width: 19%;
     margin: 8px 0;
   }
 }
 @media only screen and (max-width: 200px) {
   .webcomic {
-    width: 50%;
+    width: 51%;
   }
 }
 .fix:after {
@@ -54,6 +54,12 @@ div.desc {
   width: 50%;
 }
 
+h1 {text-align: center;}
+h2 {text-align: center;}
+h3 {text-align: center;}
+h4 {text-align: center;}
+p {text-align: center;}
+div {text-align: center;}
 </style>
 </head>
 <html>
@@ -64,15 +70,15 @@ div.desc {
     </div>
 <h1> This is Fine, a webcomic to viral meme</h1>
 <hr>
-<p></p>
+<br>
 <h2>Brief history of webcomics and memes</h2>
+<p>Insert info.<br>
 Insert info.<br>
-Insert info.<br>
-Insert info.<br>
+Insert info.<br></p>
 <h4>Gallery of webcomics turned meme</h4>
-Click below to view blank templates of webcomics generated for people to create new memes; <br>
+<p>Click below to view blank templates of webcomics generated for people to create new memes; <br>
 this is a common tool used on the internet to make niche content and specific memes<br>
-generally widely available once a meme goes viral.<br>
+generally widely available once a meme goes viral.<br></p>
 <br>
 <div class="webcomic">
   <div class="images">
@@ -106,28 +112,42 @@ generally widely available once a meme goes viral.<br>
     <div class="desc">He's got what I don't</div>
   </div>
 </div>
+<div class="webcomic">
+  <div class="images">
+    <a target="_blank" href="https://indianmemetemplates.com/wp-content/uploads/Quiz-Kid.jpg">
+      <img src="https://indianmemetemplates.com/wp-content/uploads/Quiz-Kid.jpg" alt="IMAGE2" width="300" height="200">
+    </a>
+    <div class="desc">Quiz kid</div>
+  </div>
+</div>
+<div class="webcomic">
+  <div class="images">
+    <a target="_blank" href="https://i.imgflip.com/53nce4.jpg?a467064">
+      <img src="https://i.imgflip.com/53nce4.jpg?a467064" alt="image3" width="300" height="200">
+    </a>
+    <div class="desc">He's got what I don't</div>
+  </div>
+</div>
 <div class="fix"></div>
-<p></P>
+</P>
 <br>
 <hr>
 <h2>This is Fine</h2>
-Talk about original webcartoon etc.<br>
+<p>Talk about original webcartoon etc.<br>
 <img class="centerimg" src="https://i.cbc.ca/1.6713609.1673645058!/fileImage/httpImage/image.jpg_gen/derivatives/original_620/this-is-fine.jpg" width="400" height="600"><br>
 <br>
 Talk about meme. Insert the meme template + some variations of it. <br>
 Link to articles from the creator when it launched on why he made the comic etc. <br>
-<p></p>
+</p>
 <hr>
 <h2>Was it ever really fine?</h2>
-<b><i>Surpringly, it was.. eventually </b></i><br>
+<p><b><i>Surpringly, it was.. eventually </b></i><br>
 Info here about how the virality was positive for the creator which is rare in meme-ality<br>
 More info etc etc<br>
 Video here below<br>
-<p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nxMMElT61A8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <img class="centerimg" src="" width="" height=""><br>
-Reference video and some info about it.<br>
-<p></p>
+Reference video and some info about it.<br></p>
 <hr>
 <p><pr>
 </body>
