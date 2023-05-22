@@ -57,11 +57,11 @@ div.desc {
 <h1> This is Fine, a webcomic to viral meme</h1>
 <hr>
 <p></p>
-<h4>Brief history of webcomics and memes</h4>
+<h3>Brief history of webcomics and memes</h3>
 Insert info.<br>
 Insert info.<br>
 Insert info.<br>
-<h3>Gallery of webcomics turned meme</h3>
+<h5>Gallery of webcomics turned meme</h5>
 Some webcomics which were turned into memes.<br>
 <div class="webcomic">
   <div class="images">
@@ -106,8 +106,8 @@ Some webcomics which were turned into memes.<br>
 <br>
 <p></p>
 <hr>
-<h3>Was it ever really fine?
-</h3>
+<h4>Was it ever really fine?
+</h4>
 <b>Surpringly, eventually it was.</b><br>
 Info here about how the virality was positive for the creator which is rare in meme-ality<br>
 More info etc etc<br>
