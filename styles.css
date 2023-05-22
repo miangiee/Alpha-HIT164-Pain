@@ -5,11 +5,11 @@ h1 {
 }
 
 body {
-  background-color: rgb(222, 213, 230);
+  background-color: rgb(234, 227, 240);
 }
 
 .divcolor{
-  background-color: rgb(219, 213, 189);
+  background-color: rgb(238, 232, 209);
 }
 
 .centerimg {
@@ -20,4 +20,20 @@ body {
     display: block;
 
 }
+
+.centerimg_aus {
  
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+  display: block;
+}
+
+.FG {
+color: brown;
+font-weight: bold;
+font-style: oblique;
+font-size: 120%;
+font-family: Helvetica;
+text-align: center;
+}
