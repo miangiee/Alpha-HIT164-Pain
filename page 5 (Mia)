@@ -1,1 +1,123 @@
-
+<!doctype html>
+<!doctype html>
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="styles.css">
+<!--Should this title be like *our webpage* - *our page* etc?-->
+    <title>Website title - This is Fine </title>
+</head>
+<html>
+<head>
+<style>
+div.images {
+  border: 2px solid #ccc;
+}
+div.images:hover {
+  border: 2px solid #777;
+}
+div.images img {
+  width: 50%;
+  height: 50%;
+}
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
+* {
+  box-sizing: border-box;
+}
+.webcomic {
+  padding: 0 8px;
+  float: left;
+  width: 15.99999%;
+}
+@media only screen and (max-width: 400px) {
+  .webcomic {
+    width: 15.99999%;
+    margin: 8px 0;
+  }
+}
+@media only screen and (max-width: 300px) {
+  .webcomic {
+    width: 50%;
+  }
+}
+.fix:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
+</head>
+<body>
+<body>
+    <div class="divcolor"> 
+        <pre><a href="Page1.html" target="_blank">Page 1</a>         <a href="Page2.html" target="_blank">page 2</a>         <a href="Page3.html" target="_blank">page 3</a>          <a href="page4" target="_blank">page 4</a>          <a href="page5" target="_blank">page 5</a>            <a href="page6" target="_blank">page 6</a></pre>
+    </div>
+<h1> This is Fine, a webcomic to viral meme</h1>
+<hr>
+<p></p>
+<h4>Brief history of webcomics and memes</h4>
+Insert info.<br>
+Insert info.<br>
+Insert info.<br>
+<h3>Gallery of webcomics turned meme</h3>
+Some webcomics which were turned into memes.<br>
+<div class="webcomic">
+  <div class="images">
+    <a target="_blank" href="https://www.meme-arsenal.com/memes/b7d39b77ff3a0be260e5a46da6a876fe.jpg">
+      <img src="https://www.meme-arsenal.com/memes/b7d39b77ff3a0be260e5a46da6a876fe.jpg" alt="IMAGE1" width="300" height="200">
+    </a>
+    <div class="desc">Angry Dad</div>
+  </div>
+</div>
+<div class="webcomic">
+  <div class="images">
+    <a target="_blank" href="https://indianmemetemplates.com/wp-content/uploads/Good-Grades-and-Success-761x1024.jpg">
+      <img src="https://indianmemetemplates.com/wp-content/uploads/Good-Grades-and-Success-761x1024.jpg" alt="image4" width="300" height="200">
+    </a>
+    <div class="desc">This one i forgot the name</div>
+  </div>
+</div>
+<div class="webcomic">
+  <div class="images">
+    <a target="_blank" href="https://indianmemetemplates.com/wp-content/uploads/Quiz-Kid.jpg">
+      <img src="https://indianmemetemplates.com/wp-content/uploads/Quiz-Kid.jpg" alt="IMAGE2" width="300" height="200">
+    </a>
+    <div class="desc">Quiz kid</div>
+  </div>
+</div>
+<div class="webcomic">
+  <div class="images">
+    <a target="_blank" href="https://i.imgflip.com/53nce4.jpg?a467064">
+      <img src="https://i.imgflip.com/53nce4.jpg?a467064" alt="image3" width="300" height="200">
+    </a>
+    <div class="desc">He's got what I don't</div>
+  </div>
+</div>
+<div class="fix"></div>
+<p></P>
+<br>
+<hr>
+<h3>This is Fine</h3>
+<br>
+<br>
+<img class="centerimg" src="https://i.cbc.ca/1.6713609.1673645058!/fileImage/httpImage/image.jpg_gen/derivatives/original_620/this-is-fine.jpg" width="400" height="600"><br>
+<br>
+<p></p>
+<hr>
+<h3>Was it ever really fine?
+</h3>
+<b>Surpringly, eventually it was.</b><br>
+Info here about how the virality was positive for the creator which is rare in meme-ality<br>
+More info etc etc<br>
+Video here below<br>
+<p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nxMMElT61A8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<img class="centerimg" src="" width="" height=""><br>
+Reference video and some info about it.<br>
+<p></p>
+<hr>
+<p><pr>
+</body>
+</html>
