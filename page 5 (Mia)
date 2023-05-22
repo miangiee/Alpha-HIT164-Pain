@@ -6,7 +6,6 @@
 <!--Should this title be like *our webpage* - *our page* etc?-->
     <title>Website title - This is Fine </title>
 </head>
-<html>
 <head>
 <style>
 div.images {
@@ -47,8 +46,17 @@ div.desc {
   display: table;
   clear: both;
 }
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
 </style>
 </head>
+<html>
 <body>
 <body>
     <div class="divcolor"> 
@@ -57,26 +65,29 @@ div.desc {
 <h1> This is Fine, a webcomic to viral meme</h1>
 <hr>
 <p></p>
-<h3>Brief history of webcomics and memes</h3>
+<h2>Brief history of webcomics and memes</h2>
 Insert info.<br>
 Insert info.<br>
 Insert info.<br>
-<h5>Gallery of webcomics turned meme</h5>
-Some webcomics which were turned into memes.<br>
+<h4>Gallery of webcomics turned meme</h4>
+Click below to view blank templates of webcomics generated for people to create new memes; <br>
+this is a common tool used on the internet to make niche content and specific memes<br>
+generally widely available once a meme goes viral.<br>
+<br>
 <div class="webcomic">
   <div class="images">
     <a target="_blank" href="https://www.meme-arsenal.com/memes/b7d39b77ff3a0be260e5a46da6a876fe.jpg">
-      <img src="https://www.meme-arsenal.com/memes/b7d39b77ff3a0be260e5a46da6a876fe.jpg" alt="IMAGE1" width="300" height="200">
+      <img src="https://www.meme-arsenal.com/memes/b7d39b77ff3a0be260e5a46da6a876fe.jpg" alt="IMAGE1" class="center" width="300" height="200">
     </a>
-    <div class="desc">Angry Dad</div>
+    <div class="desc">KC Green webcomic which became the <a href="https://knowyourmeme.com/memes/staredad">Staredad</a> meme</div>
   </div>
 </div>
 <div class="webcomic">
   <div class="images">
     <a target="_blank" href="https://indianmemetemplates.com/wp-content/uploads/Good-Grades-and-Success-761x1024.jpg">
-      <img src="https://indianmemetemplates.com/wp-content/uploads/Good-Grades-and-Success-761x1024.jpg" alt="image4" width="300" height="200">
+      <img src="https://indianmemetemplates.com/wp-content/uploads/Good-Grades-and-Success-761x1024.jpg" alt="image4" class="center"  width="300" height="200">
     </a>
-    <div class="desc">This one i forgot the name</div>
+    <div class="desc">which became the <a href="http://google.com">x</a> meme</div>
   </div>
 </div>
 <div class="webcomic">
@@ -99,16 +110,15 @@ Some webcomics which were turned into memes.<br>
 <p></P>
 <br>
 <hr>
-<h3>This is Fine</h3>
-<br>
-<br>
+<h2>This is Fine</h2>
 <img class="centerimg" src="https://i.cbc.ca/1.6713609.1673645058!/fileImage/httpImage/image.jpg_gen/derivatives/original_620/this-is-fine.jpg" width="400" height="600"><br>
 <br>
+Talk about meme. Insert the meme template + some variations of it. <br>
+Link to articles from the creator when it launched on why he made the comic etc. <br>
 <p></p>
 <hr>
-<h4>Was it ever really fine?
-</h4>
-<b>Surpringly, eventually it was.</b><br>
+<h2>Was it ever really fine?</h2>
+<b><i>Surpringly, it was.. eventually </b></i><br>
 Info here about how the virality was positive for the creator which is rare in meme-ality<br>
 More info etc etc<br>
 Video here below<br>
