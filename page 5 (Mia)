@@ -51,7 +51,8 @@ div.desc {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
+  max-width: 50%;
+  height: auto;
 }
 
 h1 {text-align: center;}
@@ -90,42 +91,42 @@ generally widely available once a meme goes viral.<br></p>
 </div>
 <div class="webcomic">
   <div class="images">
-    <a target="_blank" href="https://indianmemetemplates.com/wp-content/uploads/Good-Grades-and-Success-761x1024.jpg">
-      <img src="https://indianmemetemplates.com/wp-content/uploads/Good-Grades-and-Success-761x1024.jpg" alt="image4" class="center"  width="300" height="200">
+    <a target="_blank" href="bronze.jpg">
+      <img src="bronze.jpg" class="center"  width="300" height="200">
     </a>
-    <div class="desc">which became the <a href="http://google.com">x</a> meme</div>
+    <div class="desc">bronze medal</div>
   </div>
 </div>
 <div class="webcomic">
   <div class="images">
-    <a target="_blank" href="https://indianmemetemplates.com/wp-content/uploads/Quiz-Kid.jpg">
-      <img src="https://indianmemetemplates.com/wp-content/uploads/Quiz-Kid.jpg" alt="IMAGE2" width="300" height="200">
+    <a target="_blank" href="quizkid.jpg">
+      <img src="quizkid.jpg" alt="IMAGE2" width="300" height="200">
     </a>
     <div class="desc">Quiz kid</div>
   </div>
 </div>
 <div class="webcomic">
   <div class="images">
-    <a target="_blank" href="https://i.imgflip.com/53nce4.jpg?a467064">
-      <img src="https://i.imgflip.com/53nce4.jpg?a467064" alt="image3" width="300" height="200">
+    <a target="_blank" href="hesgot.jpg">
+      <img src="hesgot.jpg" alt="image3" width="300" height="200">
     </a>
     <div class="desc">He's got what I don't</div>
   </div>
 </div>
 <div class="webcomic">
   <div class="images">
-    <a target="_blank" href="https://indianmemetemplates.com/wp-content/uploads/Quiz-Kid.jpg">
-      <img src="https://indianmemetemplates.com/wp-content/uploads/Quiz-Kid.jpg" alt="IMAGE2" width="300" height="200">
+    <a target="_blank" href="sleep.jpg">
+      <img src="sleep.jpg" width="300" height="200">
     </a>
-    <div class="desc">Quiz kid</div>
+    <div class="desc">are you going to sleep now</div>
   </div>
 </div>
 <div class="webcomic">
   <div class="images">
-    <a target="_blank" href="https://i.imgflip.com/53nce4.jpg?a467064">
-      <img src="https://i.imgflip.com/53nce4.jpg?a467064" alt="image3" width="300" height="200">
+    <a target="_blank" href="highfive.jpg">
+      <img src="highfive.jpg" alt="highfive" width="300" height="200">
     </a>
-    <div class="desc">He's got what I don't</div>
+    <div class="desc">drowning high five</div>
   </div>
 </div>
 <div class="fix"></div>
@@ -134,7 +135,7 @@ generally widely available once a meme goes viral.<br></p>
 <hr>
 <h2>This is Fine</h2>
 <p>Talk about original webcartoon etc.<br>
-<img class="centerimg" src="https://i.cbc.ca/1.6713609.1673645058!/fileImage/httpImage/image.jpg_gen/derivatives/original_620/this-is-fine.jpg" width="400" height="600"><br>
+<img src="collage.jpg" class="center" width="450" height="250"><br>
 <br>
 Talk about meme. Insert the meme template + some variations of it. <br>
 Link to articles from the creator when it launched on why he made the comic etc. <br>
@@ -145,8 +146,7 @@ Link to articles from the creator when it launched on why he made the comic etc.
 Info here about how the virality was positive for the creator which is rare in meme-ality<br>
 More info etc etc<br>
 Video here below<br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nxMMElT61A8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-<img class="centerimg" src="" width="" height=""><br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nxMMElT61A8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br>
 Reference video and some info about it.<br></p>
 <hr>
 <p><pr>
