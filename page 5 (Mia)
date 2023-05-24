@@ -47,27 +47,13 @@ div.desc {
   clear: both;
 }
 
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  max-width: 50%;
-  height: auto;
-}
-
-h1 {text-align: center;}
-h2 {text-align: center;}
-h3 {text-align: center;}
-h4 {text-align: center;}
-p {text-align: center;}
-div {text-align: center;}
 </style>
 </head>
 <html>
 <body>
 <body>
     <div class="divcolor"> 
-        <pre><a href="Page0.html" target="_blank">Home</a>         <a href="Page1.html" target="_blank">Cult of Rick.</a>         <a href="Page2.html" target="_blank">page 2</a>         <a href="Page3.html" target="_blank">page 3</a>          <a href="page4.html" target="_blank">page 4</a>          <a href="page5.html" target="_blank">This if Fine.</a>            <a href="page6.html" target="_blank">One Does not Simply.</a></pre>
+        <pre><a href="home.html" target="_blank">Home</a>         <a href="Page1.html" target="_blank">Cult of Rick.</a>         <a href="Page2.html" target="_blank">page 2</a>         <a href="Page3.html" target="_blank">page 3</a>          <a href="page4.html" target="_blank">page 4</a>          <a href="page5.html" target="_blank">This if Fine.</a>            <a href="page6.html" target="_blank">One Does not Simply.</a></pre>
     </div>
 <h1> This is Fine, a webcomic to viral meme</h1>
 <hr>
@@ -83,8 +69,8 @@ generally widely available once a meme goes viral.<br></p>
 <br>
 <div class="webcomic">
   <div class="images">
-    <a target="_blank" href="https://www.meme-arsenal.com/memes/b7d39b77ff3a0be260e5a46da6a876fe.jpg">
-      <img src="https://www.meme-arsenal.com/memes/b7d39b77ff3a0be260e5a46da6a876fe.jpg" alt="IMAGE1" class="center" width="300" height="200">
+    <a target="_blank" href="staredad.jpg">
+      <img src="staredad.jpg" alt="IMAGE1" class="centerimg" width="300" height="200">
     </a>
     <div class="desc">KC Green webcomic which became the <a href="https://knowyourmeme.com/memes/staredad">Staredad</a> meme</div>
   </div>
@@ -92,7 +78,7 @@ generally widely available once a meme goes viral.<br></p>
 <div class="webcomic">
   <div class="images">
     <a target="_blank" href="bronze.jpg">
-      <img src="bronze.jpg" class="center"  width="300" height="200">
+      <img src="bronze.jpg" class="centerimg"  width="300" height="200">
     </a>
     <div class="desc">bronze medal</div>
   </div>
@@ -135,20 +121,56 @@ generally widely available once a meme goes viral.<br></p>
 <hr>
 <h2>This is Fine</h2>
 <p>Talk about original webcartoon etc.<br>
-<img src="collage.jpg" class="center" width="450" height="250"><br>
+<img src="collage.jpg" class="centerimg" width="450" height="250"><br>
 <br>
 Talk about meme. Insert the meme template + some variations of it. <br>
 Link to articles from the creator when it launched on why he made the comic etc. <br>
 </p>
 <hr>
+<p>
 <h2>Was it ever really fine?</h2>
 <p><b><i>Surpringly, it was.. eventually </b></i><br>
 Info here about how the virality was positive for the creator which is rare in meme-ality<br>
-More info etc etc<br>
-Video here below<br>
+<br>
+As well as being a hilarious meme format, This is Fine was such a phenomenon it birthed many forms of artwork, crossover memes,<br>
+gif animations, and even an animated short of the original webcomic featured on Adult Swim !
+<div class="row">
+  <div class="column">
+    <p><img src="mymeme.jpg" height="150" width="280"><br>
+<br>
+<br>
+<img src="mymeme1.jpg" height="150" width="280"><br>
+<br>
+<br>
+<img src="mymeme2.jpg" height="150" width="250"><br>
+Generated memes by Mia on <a href="http://imgur.com">Imgur</a><br>
+<br></p>
+  </div>
+  <div class="column">
+    <p><img src="dog.gif" height="150" width="120" ><br>
+Pixel art sprite by <a href="https://www.instagram.com/the_oluk/">The Oluk</a><br>
+<br>
+<img src="fine2.gif" height="150" width="300"><br>
+Pixel art gif scene by <a href="https://www.deviantart.com/bbrunomoraes/">Bruno Moraes</a><br>
+<br>
+<img src="fine.gif" height="150" width="250"><br>
+Playable game inspired by This Is Fine, created by x<br></p>
+  </div>
+  <div class="column">
+    <p><img src="finecats.jpg" height="150" width="300"><br>
+redrawn with girls and cats, by  <A href="https://twitter.com/like_murka">Like_Murka</a><br>
+<br>
+<img src="finestar.jpg" height="150" width="350"><br>
+This is Fine mashed up with Star Butterfly fan meme by <a href="https://www.instagram.com/spatziline/">Spatziline</a><br>
+<br>
+<img src="" height="150" width="</p>
+</div></div>
+<br>
+<p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nxMMElT61A8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br>
 Reference video and some info about it.<br></p>
 <hr>
 <p><pr>
 </body>
 </html>
+
