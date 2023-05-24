@@ -1,0 +1,47 @@
+<!doctype html>
+<!doctype html>
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="styles.css">
+    <title>Website title </title>
+</head>
+<html>
+<body>
+<body>
+    <div class="divcolor"> 
+        <pre><a href="home.html" target="_blank">Home</a>         <a href="Page1.html" target="_blank">Cult of Rick.</a>         <a href="Page2.html" target="_blank">page 2</a>         <a href="Page3.html" target="_blank">page 3</a>          <a href="page4.html" target="_blank">page 4</a>          <a href="page5.html" target="_blank">This if Fine.</a>            <a href="page6.html" target="_blank">One Does not Simply.</a></pre>
+    </div>
+<h1> Website Title here</h1>
+<hr>
+<br>
+<h3>About</h3>
+<p>Insert info.<br>
+Insert info.<br>
+Insert info.<br></p>
+<br>
+<br>
+<p></p>
+<hr>
+<h3>Topics of discusion</h3><br>
+<br>
+<p>Insert links to pages etc.<br>
+<br>
+</p>
+<hr>
+<p><br>
+<h3>About the authors</h2>
+<div class="row">
+  <div class="column">
+    <p>Insert Author Info</p>
+  </div>
+  <div class="column">
+    <p>Insert Author Info</p>
+  </div>
+  <div class="column">
+    <p>Insert Author Info</p>
+</div></div>
+<br>
+<p>
+<p><pr>
+</body>
+</html>
