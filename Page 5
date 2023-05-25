@@ -1,12 +1,16 @@
-<html lang="en">
+<!DOCTYPE html>
+
+<!DOCTYPE html>
+
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="styles.css">
+    <title>DJ Meme Lore</title>
 </head>
+
 <body>
-    <h1>DJ Meme Lore</h1>
-    <p>whatis dj meme lore lmao</p>
+    <div class="divcolor">
+        <pre><a href="Page 3 (DJ memes)" target="_blank">Page 1</a>         <a href="Page2.html" target="_blank">page 2</a>         <a href="Page3.html" target="_blank">page 3</a>          <a href="page4" target="_blank">page 4</a>          <a href="page5" target="_blank">page 5</a>            <a href="page6" target="_blank">page 6</a></pre>
+    </div>
+    <h1>What is Meme lore?</h1>
 </body>
-</html>
