@@ -28,7 +28,7 @@
         <p>Welcome to my blog post dedicated to DJ memes! If you're a music enthusiast with a sense of humor, you're in the right place. In this article, we'll explore some hilarious DJ memes that will surely make you chuckle. Let's dive in!</p>
       </section>
 
-      <section>
+      <hr>
         <h3>The Top DJ Memes</h3>
         <figure>
           <img src="dj-meme1.jpg" alt="DJ Meme 1">
@@ -41,14 +41,12 @@
           <figcaption>Image source: memedj.com</figcaption>
         </figure>
         <p>This meme showcases the classic DJ reaction when someone requests a song that's completely off-genre. It's priceless!</p>
-      </section>
+      </hr>
 
-      <section>
+      <hr>
         <h3>Conclusion</h3>
         <p>DJ memes bring joy and laughter to music lovers around the world. They provide a lighthearted glimpse into the world of DJs and their experiences. I hope you enjoyed these memes and had a good laugh. Stay tuned for more entertaining content on my blog!</p>
-      </section>
-    </article>
-    </main>
+      </hr>
 </body>
   <footer>
     <p>&copy; 2023 My DJ Memes Blog. All rights reserved.</p>
